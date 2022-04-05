@@ -1,0 +1,11 @@
+C:\Users\dani_\Desktop\Crud_db\CRUD_DB_Empleados.exe
+C:\Users\dani_\Desktop\Crud_db\CRUD_DB_Empleados.dll
+C:\Users\dani_\Desktop\Crud_db\CRUD_DB_Empleados.deps.json
+C:\Users\dani_\Desktop\Crud_db\CRUD_DB_Empleados.runtimeconfig.json
+C:\Users\dani_\Desktop\Crud_db\CRUD_DB_Empleados.pdb
+C:\Users\dani_\Desktop\Crud_db\System.Data.SqlClient.dll
+C:\Users\dani_\Desktop\Crud_db\runtimes\win-arm64\native\sni.dll
+C:\Users\dani_\Desktop\Crud_db\runtimes\win-x64\native\sni.dll
+C:\Users\dani_\Desktop\Crud_db\runtimes\win-x86\native\sni.dll
+C:\Users\dani_\Desktop\Crud_db\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dani_\Desktop\Crud_db\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
